@@ -7,6 +7,7 @@ public class abc {
 
     public static void main(String[] args) {
         abc.name();
+        abc.name();
     }
 
     public static void name() {
@@ -14,6 +15,5 @@ public class abc {
         int age = 18;
 
         System.out.println("name:" + test);
-        System.out.println("age:" + age);
     }
 }
